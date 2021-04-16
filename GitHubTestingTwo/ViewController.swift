@@ -10,9 +10,11 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var whoIs = "Talking In Class"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        print(whoIs)
     }
 
 
