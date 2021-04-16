@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     var whoIs = "Talking In Class"
-    
+    var whoIsThat = "Erik with a K"
     override func viewDidLoad() {
         super.viewDidLoad()
         print(whoIs)
